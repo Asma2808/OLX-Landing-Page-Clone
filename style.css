@@ -600,7 +600,7 @@ padding: 20px;
 
 
 
-@media only screen and (max-width:600px) {
+@media only screen and (max-width:700px) {
     .header{
         height: auto;
         padding: 10px;
@@ -938,4 +938,5 @@ padding: 15px;
     font-weight: bold;
     font-size: small;
 }
+
 }
